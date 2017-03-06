@@ -1,0 +1,22 @@
+.form-spacing-top {
+	margin-top:15px;
+}
+
+.form-padding-top {
+	padding-top:15px;
+}
+
+.form-large-spacing-bottom {
+	margin-bottom:30px;
+}
+
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+
+p.rightitalics {
+	text-align: right;
+	font-style:italic;
+	color:grey;
+}

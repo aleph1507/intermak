@@ -1,0 +1,20 @@
+div.faq{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+dl.faq dt{
+	font-family: Verdana;
+	font-weight:bold;
+	font-size:1.2em;
+	text-align: left;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+
+dl.faq dd{
+	font-family: Verdana;
+	text-align:center;
+	font-style: oblique;
+	margin-bottom:20px;
+}
